@@ -1,0 +1,9 @@
+# Arquivos gerados pelo Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de saída e cache do Jupyter Notebook
+*.ipynb_checkpoints
+*.ipynb_checkpoints/*
+
+# Arquivos de saída gerados pelo Jupyter Notebook
+*.ipynb
