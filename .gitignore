@@ -5,5 +5,3 @@
 *.ipynb_checkpoints
 *.ipynb_checkpoints/*
 
-# Arquivos de saída gerados pelo Jupyter Notebook
-*.ipynb
